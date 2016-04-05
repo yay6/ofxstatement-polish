@@ -8,6 +8,7 @@ importing to GnuCash, MS Money or other financial software. It was designed as
 plugin for `ofxstatement`_. 
 
 Currently supported bank statements:
+
 * Bank SMART (www.banksmart.pl) 
 * Deutsche Bank Polska (www.deutschebank.pl)
 * mBank (www.mbank.pl)
@@ -15,6 +16,7 @@ Currently supported bank statements:
 * Raiffeisen-Polbank (www.raiffeisenpolbank.com)
 
 Other supported statements:
+
 * Walutomat (www.walutomat.pl)
 * Paypal (www.paypal.com)
 
