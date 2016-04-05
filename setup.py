@@ -33,7 +33,6 @@ setup(name='ofxstatement-polish',
       entry_points={
           'ofxstatement':
           ['banksmart = ofxstatement.plugins.banksmart:BankSMARTPlugin',
-          'bgżoptima = ofxstatement.plugins.bgzoptima:BGZOptimaPlugin',
            'db.pl = ofxstatement.plugins.db_pl:DBPLPlugin',
            'mbank.pl = ofxstatement.plugins.mbank_pl:MBankPLPlugin',
            'millennium = ofxstatement.plugins.millennium:MillenniumPlugin',
